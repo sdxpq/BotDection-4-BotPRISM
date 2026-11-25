@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: >-
+  If you use or adapt this software in research publications, please cite it
+  according to CITATION.md and LICENSE. Complete paper details are not yet
+  provided; this file currently describes the repository only.
+type: software
+title: BotDection-4-BotPRISM
+authors:
+  - name: BotDection-4-BotPRISM contributors
+repository-code: https://github.com/sdxpq/BotDection-4-BotPRISM
+url: https://github.com/sdxpq/BotDection-4-BotPRISM

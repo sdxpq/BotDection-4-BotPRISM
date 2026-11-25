@@ -1,0 +1,67 @@
+BotPRISM Attribution and Research Citation License 1.0
+Custom license identifier: LicenseRef-BotPRISM-Attribution-Citation-1.0
+
+Copyright (c) 2026 the respective authors and contributors.
+Copyright ownership remains with the relevant rights holders, as identified in
+the repository history and any notices accompanying individual files.
+
+1. Permission and scope
+
+The copyright holders grant permission to use, reproduce, study, modify,
+distribute, and sell copies of the material they provide under this license
+(the "Material"), including for academic and commercial purposes, subject to
+the conditions below. This permission covers only material actually released
+under this license; it does not grant access to unreleased code or manuscripts.
+
+2. Attribution and notices
+
+Copies and substantial portions of the Material, including modified versions,
+must retain this license and applicable copyright and attribution notices.
+Distributions must identify this repository as the original source:
+https://github.com/sdxpq/BotDection-4-BotPRISM
+If you distribute modifications, clearly identify that changes were made.
+Recipients must receive the same permissions for the Material under these
+conditions; you may license your own separate additions independently.
+
+3. Citation in research publications
+
+If you publish a paper, preprint, thesis, or other research report presenting
+results obtained using or adapting the Material, you must give an appropriate
+scholarly citation to the associated paper identified in CITATION.md. Where
+that file provides no complete, publicly available paper reference, cite this
+repository instead, following CITATION.md. When using a later release that
+provides the paper reference, cite that paper as instructed there.
+This condition applies to research publications, including research conducted
+for commercial purposes. A commercial use with no research publication does
+not require creating a paper, but remains subject to the attribution and
+notice requirements in Section 2.
+
+4. Voluntary support
+
+Starring the repository is welcome but entirely optional. A GitHub Star,
+payment, or endorsement is not a condition of this license. Attribution must
+not imply that the original authors endorse you or your work.
+
+5. Third-party rights
+
+This license does not replace licenses or terms that apply to third-party
+software, datasets, pretrained models, or other external material. Such
+material remains subject to its own terms. No patent or trademark license is
+granted by this document.
+
+6. Warranty and responsibility
+
+The Material is provided without any promise of accuracy, fitness for a
+particular purpose, non-infringement, maintenance, or support, to the extent
+permitted by applicable law. You are responsible for evaluating its suitability
+and complying with applicable laws and third-party rights. To the extent
+permitted by law, the copyright holders are not liable for losses or damages
+arising from use or distribution of the Material.
+
+7. Compliance
+
+The permissions above apply only while you comply with these conditions.
+Nothing in this license restricts rights that applicable law grants
+independently of this license. For permissions beyond this license, contact
+the repository maintainers through a GitHub issue or the first author of the
+associated paper.
